@@ -8,7 +8,7 @@
 
 🌱 I am a **Cs Student**<br>
 🔭 currently learning **full stack development**\
-</p>
+</p><br><br>
 <h2>Time to see what I got!</h2>
 
 <h3 align="left">Languages and Tools:</h3>
